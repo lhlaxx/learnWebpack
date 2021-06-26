@@ -1,0 +1,1 @@
+#box{backface-visibility:hidden;background-color:rgba(red,green,blue,.1);display:flex}#box .box1{background-color:rgba(22,33,33,.1)}#box .box1,#box .box2{backface-visibility:hidden;display:flex;height:100px;width:100px}#box .box2{background-color:rgba(22,33,33,.5)}

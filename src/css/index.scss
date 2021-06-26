@@ -1,0 +1,9 @@
+#box {
+	.box2 {
+		width: 100px;
+		height: 100px;
+		background-color: rgba(22, 33, 33, 0.5);
+		display: flex;
+		backface-visibility: hidden;
+	}
+}

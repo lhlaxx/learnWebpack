@@ -1,0 +1,5 @@
+#box {
+	background-color: rgba(red, green, blue, 0.1);
+	display: flex;
+	backface-visibility: hidden;
+}
